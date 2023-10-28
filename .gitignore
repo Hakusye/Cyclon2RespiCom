@@ -1,9 +1,9 @@
 *.log
 *.v.bak
-./uninstall/*
-*/logs/*
-*/output_files/*
-*/db/*
-*/incremental_db/*
-*/simulation/*
+Quartus/*/uninstall/*
+Quartus/*/logs/*
+Quartus/*/output_files/*
+Quartus/*/db/*
+Quartus/*/incremental_db/*
+Quartus/*/simulation/*
 
